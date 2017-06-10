@@ -2,6 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="8a79d4e9-232b-4684-a21c-1431457a8d2d" name="Default" comment="">
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/images/projects/multi copy.jpg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/index2.html" afterPath="$PROJECT_DIR$/index2.html" />
     </list>
     <ignored path="developer-v1.5.iws" />
@@ -48,10 +50,11 @@
       <file leaf-file-name="index2.html" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/index2.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="236">
-              <caret line="118" column="166" selection-start-line="118" selection-start-column="166" selection-end-line="118" selection-end-column="166" />
+            <state relative-caret-position="456">
+              <caret line="129" column="103" selection-start-line="129" selection-start-column="103" selection-end-line="129" selection-end-column="103" />
               <folding>
-                <element signature="e#20165#20170#0" expanded="true" />
+                <element signature="e#5863#5869#0" expanded="true" />
+                <element signature="e#21094#21099#0" expanded="true" />
               </folding>
             </state>
           </provider>
@@ -360,12 +363,12 @@
       <workItem from="1491813798719" duration="912000" />
       <workItem from="1491835334862" duration="3000" />
       <workItem from="1496779293563" duration="261000" />
-      <workItem from="1497098625820" duration="4767000" />
+      <workItem from="1497098625820" duration="7732000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="17074000" />
+    <option name="totallyTimeSpent" value="20039000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="1280" y="0" width="1920" height="1080" extended-state="0" />
@@ -410,7 +413,8 @@
         <state relative-caret-position="0">
           <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
           <folding>
-            <element signature="e#20165#20170#0" expanded="true" />
+            <element signature="e#5863#5869#0" expanded="true" />
+            <element signature="e#21094#21099#0" expanded="true" />
           </folding>
         </state>
       </provider>
@@ -483,7 +487,8 @@
         <state relative-caret-position="1440">
           <caret line="60" column="79" selection-start-line="60" selection-start-column="56" selection-end-line="60" selection-end-column="79" />
           <folding>
-            <element signature="e#20165#20170#0" expanded="true" />
+            <element signature="e#5863#5869#0" expanded="true" />
+            <element signature="e#21094#21099#0" expanded="true" />
           </folding>
         </state>
       </provider>
@@ -548,7 +553,8 @@
         <state relative-caret-position="11328">
           <caret line="472" column="9" selection-start-line="0" selection-start-column="0" selection-end-line="477" selection-end-column="0" />
           <folding>
-            <element signature="e#20165#20170#0" expanded="true" />
+            <element signature="e#5863#5869#0" expanded="true" />
+            <element signature="e#21094#21099#0" expanded="true" />
           </folding>
         </state>
       </provider>
@@ -613,7 +619,8 @@
         <state relative-caret-position="4872">
           <caret line="203" column="45" selection-start-line="203" selection-start-column="41" selection-end-line="203" selection-end-column="45" />
           <folding>
-            <element signature="e#20165#20170#0" expanded="true" />
+            <element signature="e#5863#5869#0" expanded="true" />
+            <element signature="e#21094#21099#0" expanded="true" />
           </folding>
         </state>
       </provider>
@@ -757,10 +764,11 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/index2.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="236">
-          <caret line="118" column="166" selection-start-line="118" selection-start-column="166" selection-end-line="118" selection-end-column="166" />
+        <state relative-caret-position="456">
+          <caret line="129" column="103" selection-start-line="129" selection-start-column="103" selection-end-line="129" selection-end-column="103" />
           <folding>
-            <element signature="e#20165#20170#0" expanded="true" />
+            <element signature="e#5863#5869#0" expanded="true" />
+            <element signature="e#21094#21099#0" expanded="true" />
           </folding>
         </state>
       </provider>
