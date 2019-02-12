@@ -2,12 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="8a79d4e9-232b-4684-a21c-1431457a8d2d" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/pdf/resume.pdf" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/assets/pdf/resume_old.pdf" afterPath="" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/assets/pdf/resume.pdf" afterPath="$PROJECT_DIR$/assets/pdf/Resume_old.pdf" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/resume.pdf" afterPath="$PROJECT_DIR$/resume.pdf" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/index.html" afterPath="$PROJECT_DIR$/index.html" />
     </list>
     <ignored path="developer-v1.5.iws" />
     <ignored path=".idea/workspace.xml" />
@@ -35,7 +30,7 @@
     <fileColor scope="Non-Project Files (Material Palenight)" color="2f2e43" />
   </component>
   <component name="FileEditorManager">
-    <leaf>
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
       <file leaf-file-name="index.html" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/index.html">
           <provider selected="true" editor-type-id="text-editor">
@@ -113,8 +108,6 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="Scratches" />
-      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <PATH>
@@ -161,6 +154,8 @@
           </PATH>
         </subPane>
       </pane>
+      <pane id="Scope" />
+      <pane id="Scratches" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -312,12 +307,13 @@
       <workItem from="1533937632306" duration="686000" />
       <workItem from="1537371634824" duration="199000" />
       <workItem from="1543884095710" duration="1453000" />
-      <workItem from="1547608396865" duration="216000" />
+      <workItem from="1547608396865" duration="356000" />
+      <workItem from="1550006591420" duration="13000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="35711000" />
+    <option name="totallyTimeSpent" value="35864000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="23" width="1280" height="733" extended-state="6" />
@@ -328,7 +324,7 @@
       <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.24960506" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
-      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4512" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.4512" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
       <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
@@ -359,6 +355,18 @@
     <watches-manager />
   </component>
   <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/index.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1495">
+          <caret line="65" column="70" lean-forward="false" selection-start-line="65" selection-start-column="70" selection-end-line="65" selection-end-column="70" />
+          <folding>
+            <element signature="n#style#0;n#img#0;n#a#1;n#div#1;n#div#0;n#div#0;n#section#1;n#div#0;n#div#0;n#div#0;n#body#0;n#html#1;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#img#0;n#a#1;n#div#2;n#div#0;n#div#0;n#section#1;n#div#0;n#div#0;n#div#0;n#body#0;n#html#1;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#img#0;n#a#1;n#p#1;n#div#0;n#div#4;n#div#0;n#div#0;n#section#1;n#div#0;n#div#0;n#div#0;n#body#0;n#html#1;n#!!top" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/index.html">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="177">
